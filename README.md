@@ -15,16 +15,17 @@
 
 github订阅：
 
-https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt
+https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.txt
 
-https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.m3u
 
 github代理订阅：
 
-https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt
+https://ghproxy.net/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.txt
 
-https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+https://ghproxy.net/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.m3u
 
 ### 鸣谢:
 
 脚本来源: https://github.com/ssili126/tv
+https://github.com/cymz6/AutoIPTV-Hotel
