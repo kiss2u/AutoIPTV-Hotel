@@ -32,7 +32,7 @@ jobs:
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name ${{ secrets.NAME }}
           git add .
-          git commit *.txt -m "Add generated file"
-          git commit *.m3u -m "Add generated file"
+          git commit *.txt -m "The iptv.txt file has been generated on $(date +"%Y.%m.%d-%H%M")"
+          git commit *.m3u -m "The iptv.m3u file has been generated on $(date +"%Y.%m.%d-%H%M")"
           #git pull --rebase
           git push -f
