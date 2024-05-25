@@ -29,8 +29,8 @@ jobs:
         
       - name: 提交
         run: |
-          git config --local user.email "ssili@126.com"
-          git config --local user.name "ssili126"
+          git config --local user.email ${{ secrets.email }}
+          git config --local user.name ${{ secrets.name }}
           git add .
           git commit *.txt -m "Add generated file"
           git commit *.m3u -m "Add generated file"
