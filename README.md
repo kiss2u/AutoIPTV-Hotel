@@ -28,4 +28,4 @@ https://ghproxy.net/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main
 ### 鸣谢:
 
 脚本来源: https://github.com/ssili126/tv
-https://github.com/cymz6/AutoIPTV-Hotel
+修改自：https://github.com/cymz6/AutoIPTV-Hotel
