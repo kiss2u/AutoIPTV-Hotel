@@ -21,9 +21,9 @@ https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.m3u
 
 github代理订阅：
 
-https://ghproxy.net/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.txt
 
-https://ghproxy.net/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/kiss2u/AutoIPTV-Hotel/main/lives.m3u
 
 ### 鸣谢:
 
